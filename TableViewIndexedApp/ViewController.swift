@@ -19,7 +19,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     let indexArray = ["B", "F", "M", "R"]
     let cellID = "cellID"
-
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
